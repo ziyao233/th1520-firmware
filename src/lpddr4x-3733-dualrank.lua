@@ -2,7 +2,7 @@
 --[[
 --	lpddr4x-3733-dualrank.lua
 --	TH1520 DDR firmware
---	Copyright (C) 2017-2020 Alibaba Group Holding Limited
+--	Copyright (C) 2017-2024 Alibaba Group Holding Limited
 --	Copyright (C) 2025 Yao Zi <ziyao@disroot.org>
 --]]
 
