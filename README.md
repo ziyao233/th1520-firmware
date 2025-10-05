@@ -81,7 +81,7 @@ $ ./aon-generate.sh <BINARY_AON_FIRMWARE> <AON_CONF_PATCH> <OUTPUT_FILE>
 e.g.
 
 ```shell
-$ ./aon-generate light_aon_fpga.bin bin/lpi4a-aon.patch.bin lpi4a-aon.elf
+$ ./aon-generate.sh light_aon_fpga.bin bin/lpi4a-aon.patch.bin lpi4a-aon.elf
 ```
 
 Configuration of PMIC may vary from board to board, and different configuration
