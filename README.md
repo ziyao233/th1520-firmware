@@ -12,7 +12,8 @@ The DDR controller supports various configurations of ranks and interface
 bitwidth, which requires different firmwares to function,
 
 - Dual-rank LPDDR4X running at 3733MHz, shipped by
-  - Sipeed Lichee Pi 4A with 16GiB RAM
+  - Sipeed Lichee Pi 4A, both 8GiB and 16GiB RAM variants
+    - Including the "preview" version
   - Milk-V Meles with 16GiB RAM
   - `src/lpddr4x-3733-dualrank.lua`
 
